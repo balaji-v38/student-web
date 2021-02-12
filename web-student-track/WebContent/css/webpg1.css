@@ -1,0 +1,52 @@
+#center_all{
+	width:960px;
+	height:630px;
+	background-color:skyblue;
+	margin:0px auto;
+}
+#main_header{
+	width:960px;
+	height:98px; 
+	background-color:lightgreen;
+	
+	}
+#main_nav{
+	width:960px;
+	height:48px;
+	background-color:orange;
+	
+}
+#main_section{
+	width:960px;
+	height:390px;
+	background-color:pink;
+float:left;
+	
+	
+}
+
+	
+	
+
+#main_footer{
+	width:960px;
+	height:140px;
+	background-color:lightgreen;
+	
+	clear:both;
+}
+#don{
+    text-align:center;
+      font-size:40px;
+    
+
+    margin-right:40px;
+
+}
+#mn{
+text-align:center;
+      font-size:40px;
+margin-right:40px;
+
+
+}
