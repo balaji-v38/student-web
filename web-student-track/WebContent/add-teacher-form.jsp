@@ -4,7 +4,7 @@
 <head>
 	<title>Add Teacher</title>
 
-	<link type="text/css" rel="stylesheet" href="css/style.css">
+	<link type="text/css" rel="stylesheet" href="css/nstyle.css">
 	<link type="text/css" rel="stylesheet" href="css/add-student-style.css">	
 </head>
 

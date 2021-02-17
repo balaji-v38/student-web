@@ -160,8 +160,11 @@ public class TeacherControllerServlet extends HttpServlet {
 		request.setAttribute("TEACHER_LIST", teachers);
 				
 		// send to JSP page (view)
-		RequestDispatcher dispatcher = request.getRequestDispatcher("/list-teacher.jsp");
+		RequestDispatcher dispatcher = request.getRequestDispatcher("list-teachers.jsp");
 		dispatcher.forward(request, response);
+	
+	
+	
 	}
 
 }

@@ -6,14 +6,14 @@
 <head>
 	<title>Teacher Tracker App</title>
 	
-	<link type="text/css" rel="stylesheet" href="css/style.css">
+	<link type="text/css" rel="stylesheet" href="css/nstyle.css">
 </head>
 
 <body>
 
 	<div id="wrapper">
 		<div id="header">
-			<h2>Tpr University</h2>
+			<h2>STANFORD University</h2>
 		</div>
 	</div>
 
@@ -71,6 +71,9 @@
 		</div>
 	
 	</div>
+	<p>
+			<a href="index.html">Back to Homepage</a>
+		</p>
 </body>
 
 

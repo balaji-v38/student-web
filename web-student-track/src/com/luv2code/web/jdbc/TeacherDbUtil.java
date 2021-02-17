@@ -30,7 +30,7 @@ public class TeacherDbUtil {
 			myConn = dataSource.getConnection();
 			
 			// create sql statement
-			String sql = "select * from teacher order by last_name";
+			String sql = "select * from student order by last_name";
 			
 			myStmt = myConn.createStatement();
 			
@@ -89,6 +89,7 @@ public class TeacherDbUtil {
 		try {
 			// get db connection
 			myConn = dataSource.getConnection();
+			
 			
 			// create sql for insert
 			String sql = "insert into teacher "

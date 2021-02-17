@@ -6,7 +6,7 @@
 <head>
 	<title>Student Tracker App</title>
 	
-	<link type="text/css" rel="stylesheet" href="css/style.css">
+	<link type="text/css" rel="stylesheet" href="css/nstyle.css">
 </head>
 
 <body>
@@ -71,6 +71,9 @@
 		</div>
 	
 	</div>
+	<p>
+			<a href="index.html">Back to Homepage</a>
+		</p>
 </body>
 
 
